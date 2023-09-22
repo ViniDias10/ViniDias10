@@ -1,7 +1,7 @@
 ### Olá, me chamo Vinicius!
 
 - 🔭 Atualmente trabalho com Front-end e automações 
-- 🌱 Estudando sobre typescript e cusando ciências da computação
+- 🌱 Estudando sobre react e cusando ciências da computação
 
 ##
 
