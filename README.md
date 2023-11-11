@@ -1,7 +1,7 @@
 ### Olá, me chamo Vinicius!
 
 - 🔭 Atualmente trabalho com Front-end 
-- 🌱 Estudando sobre Sass e cusando ciências da computação
+- 🌱 Estudando sobre next js e cusando ciências da computação
 
 ##
 
